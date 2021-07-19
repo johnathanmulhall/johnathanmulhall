@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnathanmulhall
-- 👀 I’m interested in data science, particularly with respects to medicine
+- 👀 I’m interested in data science, particularly with respect to medicine
 - 🌱 I’m currently learning python, SQL, R
 - 💞️ I’m looking to collaborate on anything helpful to further my experience. 
 - 📫 How to reach me: http://www.johnathanmulhall.com
